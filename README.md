@@ -7,3 +7,4 @@ The pet feeder will need to have many inputs and outputs built in and able to be
 
 Various outputs could include the motor in the feeding mechanism (to rotate or open the chute to allow food into the bowl), a display screen (to show feeding time, amount of food in grams and potentially error messages if complications such as animal not eating food or system failure arise), potentially an audio cue (this could classically condition the animals in the shelter to understand that the cue means food), and notifications that could be sent via an app (e.g. feeding complete, low food, system failure). 
 
+![IMG_6535](https://github.com/user-attachments/assets/28d559d8-46e1-492f-9dad-d5ccd73a2718)
