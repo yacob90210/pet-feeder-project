@@ -1,6 +1,7 @@
 # Step3_Flowchart
 
-<img width="763" height="1151" alt="flowchartITASSIGNMENT drawio" src="https://github.com/user-attachments/assets/c2327aa7-d044-4968-8705-657ee8069675" />
+
+<img width="763" height="1461" alt="assignmentflowchartfinal drawio" src="https://github.com/user-attachments/assets/bc3f29f9-50dc-48fd-8615-1cb709311101" />
 
 
 [PetFeederFlowchart.drawio](https://github.com/user-attachments/files/21820653/PetFeederFlowchart.drawio)
