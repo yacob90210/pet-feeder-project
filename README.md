@@ -1,1 +1,9 @@
-# pet-feeder-project
+# Step1_Analysis
+
+
+The programmable automated feeder needs to include various features that will work properly and efficiently. There should be a food hopper above the feeder where the food should be placed and easily accessible. A motor should control the hole to the hopper that either turns or opens to be able to let food flow to the bowl beneath. The bowl should have a weight sensor to detect how much food has been given to the animal and if any issues have arisen in the process. A camera could potentially be a feature that could allow one to view if the process has been completed and if the animal has eaten or not. 
+
+The pet feeder will need to have many inputs and outputs built in and able to be programmed in order for it to be fully automated. The inputs should include a feeding schedule (time of day), a manual override (in case of hardware of software failure), a weight sensor (detecting how much food is left and how much has been dispensed), along with an app that can control the pet feeders (e.g. time of food dispersion, potentially type of food, etc.). A food level sensor (detecting if food has been eaten and could potentially send a notification for a worker to check on the animal), and potentially a camera on each pet feeding device (to ensure that the system is working properly. Additionally, another input can be the power source to the feeder, which would most likely be a battery within the machine. 
+
+Various outputs could include the motor in the feeding mechanism (to rotate or open the chute to allow food into the bowl), a display screen (to show feeding time, amount of food in grams and potentially error messages if complications such as animal not eating food or system failure arise), potentially an audio cue (this could classically condition the animals in the shelter to understand that the cue means food), and notifications that could be sent via an app (e.g. feeding complete, low food, system failure). 
+
