@@ -1,6 +1,7 @@
 # Step3_Flowchart
 
-<img width="422" height="636" alt="image" src="https://github.com/user-attachments/assets/b9fc5e3c-1a52-4c64-8851-d6d93cc9740f" />
+<img width="763" height="1151" alt="flowchartITASSIGNMENT drawio" src="https://github.com/user-attachments/assets/c2327aa7-d044-4968-8705-657ee8069675" />
+
 
 [PetFeederFlowchart.drawio](https://github.com/user-attachments/files/21820653/PetFeederFlowchart.drawio)
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
